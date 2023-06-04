@@ -1,0 +1,40 @@
+.content_wrapper {
+    align-items: center;
+
+}
+
+.input_wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.add_Number_Button {
+    margin: 10px;
+}
+
+.calculate {
+    margin: 10px;
+}
+
+.reload {
+    margin: 10px;
+}
+
+.number_Input {
+    margin-top: 20px;
+}
+
+.content_wrapper {
+    font-size: medium;
+}
+
+.results {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
